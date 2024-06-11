@@ -60,12 +60,6 @@ I'm a full-stack developer from 🇨🇴 Colombia with over 12 years of experien
 - [Play Store](https://play.google.com/store/apps/developer?id=Q10+Apps&hl=es_CO)
 - [App Store](https://apps.apple.com/es/app/interactuar/id1505844107)
 
-## :sparkles: Personal Projects
-
-- **Hammer Head** - Co-creator and developer of a video game using C#, available on Play Store.
-  - [Hammer Head on Play Store](https://play.google.com/store/apps/details?id=com.realinc.hammer)
-- **Senasoft 2019** - Developed the event application which aided in logistics, entry control, food claims, registrations, inventory, and credential generation.
-  - [Senasoft 2019 App](https://play.google.com/store/apps/details?id=com.senasoft2019&hl=en_US)
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alejogo4&show_icons=true&layout=compact&border_radius=8&hide_border=true&theme=react&bg_color=2D333B" />
