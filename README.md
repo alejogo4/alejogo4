@@ -45,12 +45,13 @@ I'm a full-stack developer from 🇨🇴 Colombia with over 12 years of experien
 ![Webstorm](http://img.shields.io/badge/-Webstorm-3C4858?style=flat-square&logo=webstorm)
 
 
-## :briefcase: Experience
+## :briefcase: My las eExperience
 
-- **Senior Frontend Developer** (Currently)
+- **Senior Frontend Developer** - Elenas (Currently)
+  - I am a developer at a startup with a mobile digital platform that helps millions of women in Latin America generate income.   
 - **Freelance React Native Developer** - Q10 (2020)
-  - Developed numerous mobile applications for Android and iOS in an educational platform.
-- **Software Developer - Líder Técnico** - TODO1 (2019)
+  - Developed numerous mobile applications for Android and iOS in an educational platform. (https://play.google.com/store/apps/developer?id=Q10+Apps&hl=es_CO)
+- **Software Developer - Technical leader** - Uvity (2019)
   - Frontend Developer for Bancolombia in the process of migrating the Virtual Branch for Businesses and Individuals.
 
 ## :earth_americas: Links
