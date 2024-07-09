@@ -1,5 +1,6 @@
 # 🖖 Hi World, I'm Alejandro Giraldo
 
+[![Website Badge](https://img.shields.io/badge/-Website-3B5998?style=flat-square&logo=google-chrome&logoColor=white&link=https://agiraldodev.netlify.app/)](https://agiraldodev.netlify.app/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alejogo49@gmail.com)](mailto:alejogo49@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejandro-giraldo-duque/)](https://www.linkedin.com/in/alejandro-giraldo-duque/)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/alejogo4)](https://github.com/alejogo4)
@@ -56,6 +57,7 @@ I'm a full-stack developer from 🇨🇴 Colombia with over 12 years of experien
 
 ## :earth_americas: Links
 
+- [Website](https://agiraldodev.netlify.app/)
 - [GitHub](https://github.com/alejogo4)
 - [LinkedIn](https://www.linkedin.com/in/alejandro-giraldo-duque/)
 - [Play Store](https://play.google.com/store/apps/developer?id=Q10+Apps&hl=es_CO)
