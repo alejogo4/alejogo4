@@ -46,7 +46,7 @@ I'm a full-stack developer from 🇨🇴 Colombia with over 12 years of experien
 ![Webstorm](http://img.shields.io/badge/-Webstorm-3C4858?style=flat-square&logo=webstorm)
 
 
-## :briefcase: My las eExperience
+## :briefcase: My Last Experiences
 
 - **Senior Frontend Developer** - Elenas (Currently)
   - I am a developer at a startup with a mobile digital platform that helps millions of women in Latin America generate income.   
